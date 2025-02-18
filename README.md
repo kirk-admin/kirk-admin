@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi, I'm Kirk Andes
 
-<!--
-**kirk-admin/kirk-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I build exceptional digital experiences with modern web technologies, focusing on creating responsive, user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, PHP, Firebase
+- **Mobile:** Flutter
+- **Cloud Services:** AWS
+- **Databases:** SQL
+
+### Projects
+
+Here are some of the projects I've worked on:
+
+- **Project Name:** Brief description of the project.
+  - [GitHub Repository](#)
+  - [Live Demo](#)
+
+- **Another Project Name:** Brief description of this project.
+  - [GitHub Repository](#)
+  - [Live Demo](#)
+
+*For a complete list of my projects, please visit my [portfolio](https://kirk-dev.vercel.app/).*
+
+### Contact Me
+
+I'm open to collaborating on interesting projects and opportunities. Feel free to reach out to me via:
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
+*Let's build something amazing together!*
