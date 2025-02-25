@@ -1,4 +1,4 @@
-# Hi, I'm Kirk Andes
+# Hi, I'm Kirk
 
 ## Full Stack Developer
 
