@@ -4,7 +4,7 @@
 
 I build exceptional digital experiences with modern web technologies, focusing on creating responsive, user-friendly applications.
 
-### Porfolio
+### Portfolio
 https://kirk-dev.vercel.app
 
  
